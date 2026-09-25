@@ -4,7 +4,7 @@ Jeu mobile de puzzle, développé en React Native (Expo) avec Supabase en backen
 
 ## 📱 Aperçu
 
-![Gridbusters - écran d'accueil](Acceuil.png)
+![Gridbusters - écran d'accueil](Accueil.png)
 ![Gridbusters - gameplay](Game.png)
 
 ## 🧩 Le projet
